@@ -1,1 +1,6 @@
-Commit #1: Pedro Palencia
+Commit #1:	Pedro Palencia
+
+Commit #2: 	Lugar de nacimiento: Capitanejo, Santander
+		Padre: Pedro Palencia
+		Mama: Gladis
+		Hermana: Sheryl
