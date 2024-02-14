@@ -4,3 +4,5 @@ Commit #2: 	Lugar de nacimiento: Capitanejo, Santander
 		Padre: Pedro Palencia
 		Mama: Gladis
 		Hermana: Sheryl
+
+Commit #3: 	Estaba chiquito y ojerozo.
